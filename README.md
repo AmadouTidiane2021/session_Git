@@ -1,2 +1,2 @@
 # session_Git
-# Salut tout le monde, il fait beau aujourd'hui
+# Salut tout le monde, il faut beau aujourd'hui
